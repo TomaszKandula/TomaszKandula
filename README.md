@@ -5,7 +5,7 @@ My name is Tomasz but I usually go by Tom 😉
 - 🔭 I'm currently working on:
 1. [Personal Website](https://github.com/users/TomaszKandula/projects/7), linked repository: [TokanPages](https://github.com/TomaszKandula/TokanPages).
 1. [Song Lyrics Demo](https://github.com/users/TomaszKandula/projects/6), linked repository: [SongLyrics](https://github.com/TomaszKandula/SongLyrics).
-1. Demo of CQRS pattern, linked repository: [CqrsDemo](https://github.com/TomaszKandula/CqrsDemo). This is simpler version with no event sourcing.
+1. [CQRS Demo](https://github.com/users/TomaszKandula/projects/12), linked repository: [CqrsDemo](https://github.com/TomaszKandula/CqrsDemo). This is simpler version with no event sourcing.
 - 🧭 Upcoming projects:
 1. [Elasticsearch in .NET](https://github.com/users/TomaszKandula/projects/11), demo application in NET Core 3.1.
 1. [Vanilla SPA](), extending demo of SPA application that mimics React but uses no libraries/frameworks. Targets very small web-apps.
