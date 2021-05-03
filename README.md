@@ -12,6 +12,7 @@ My name is Tomasz, but I usually go by Tom 😉
 
 - 🧭  Upcoming projects:
 1. Unnamed Swift 5 project for iOS only.
+1. Unnamed application that uses hexagonal architecture. 
 
 - 🌱  Currently, I am into React.js/Redux.js, plus getting up to speed with Xamarin Native (iOS).
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/tomaszkandula/).
