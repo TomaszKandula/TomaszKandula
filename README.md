@@ -10,7 +10,7 @@ My name is Tomasz, but I usually go by Tom 😉
 1. n/a
 
 - 🧭  Upcoming projects:
-1. [Project Orion](https://github.com/users/TomaszKandula/projects/13) - New public API, linked repository: [Orion](https://github.com/TomaszKandula/Orion).
+1. Project Orion - new public API...
 1. Unnamed mobile project for iOS only.
 1. Unnamed application that uses hexagonal architecture. 
 
