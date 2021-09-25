@@ -10,9 +10,9 @@ My name is Tomasz, but I usually go by Tom 😉
 1. n/a
 
 - 🧭  Upcoming projects:
-1. Project Orion - new public API...
-1. Unnamed mobile project for iOS only.
-1. Unnamed application that uses hexagonal architecture. 
+1. Unnamed project using micro-services.
+1. Unnamed mobile project for iOS only (React Native).
+1. Unnamed application that uses hexagonal architecture.
 
 - 🌱  I am into React.js/Redux.js, NET Core and Azure Cloud.
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/tomaszkandula/).
