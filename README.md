@@ -4,13 +4,12 @@ My name is Tomasz, but I usually go by Tom 😉
 
 - 🔭  I'm currently working on:
 1. [Project TokanPages](https://github.com/users/TomaszKandula/projects/7), linked repository: [TokanPages](https://github.com/TomaszKandula/TokanPages).
-1. DevExcellence - a source of best practises, quizzes and scripts on C#, JavaScript, Cloud Computing and more.
+1. Web portal for fitness trainers and trainees, linked repository: [FitnessPlatform](https://dev.azure.com/tomkandula/FitnessPlatform).
 
 - ✋ On hold:
-1. n/a
+1. DevExcellence - a source of best practises, quizzes and scripts on C#, JavaScript, Cloud Computing and more.
 
 - 🧭  Upcoming projects:
-1. Unnamed project using micro-services.
 1. Unnamed mobile project for iOS only (React Native).
 1. Unnamed application that uses hexagonal architecture.
 
