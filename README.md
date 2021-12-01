@@ -11,7 +11,6 @@ My name is Tomasz, but I usually go by Tom 😉
 
 - 🧭  Upcoming projects:
 1. Unnamed mobile project for iOS only (React Native).
-1. Unnamed application that uses hexagonal architecture.
 
 - 🌱  I am into React.js/Redux.js, NET Core and Azure Cloud.
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/tomaszkandula/).
