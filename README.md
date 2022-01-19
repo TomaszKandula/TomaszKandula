@@ -4,7 +4,7 @@ My name is Tomasz, but I usually go by Tom 😉
 
 - 🔭  I'm currently working on:
 1. [Project TokanPages](https://github.com/users/TomaszKandula/projects/7), linked repository: [TokanPages](https://github.com/TomaszKandula/TokanPages).
-1. Web portal for fitness trainers and trainees, linked repository: [FitnessPlatform](https://github.com/TomaszKandula/FitnessPages).
+1. Web portal for fitness trainers and trainees, linked repository: [FitnessPlatform](https://github.com/TomaszKandula/FitnessPages) (private/commercial).
 
 - ✋ On hold:
 1. DevExcellence - a source of best practises, quizzes and scripts on C#, JavaScript, Cloud Computing and more.
