@@ -3,7 +3,7 @@
 My name is Tomasz, but I usually go by Tom 😉
 
 - 🔭  I'm currently working on:
-1. [Project TokanPages](https://github.com/users/TomaszKandula/projects/7), linked repository: [TokanPages](https://github.com/TomaszKandula/TokanPages).
+1. Repository: [TokanPages](https://github.com/TomaszKandula/TokanPages).
 
 - 🧭  Upcoming projects:
 1. Unnamed mobile project (React Native).
